@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KSPedia xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="mechjeb2kspedia" CreatedTime="-8587162217718272347">
+  <Categories>
+    <Category Name="MechJeb2">
+      <Title>MechJeb2</Title>
+      <TitleScreen>0-0 main screen</TitleScreen>
+      <Screens />
+      <Subcategories />
+    </Category>
+  </Categories>
+  <Screens>
+    <Screen Name="0-0 main screen">
+      <BundleName>mechjeb2kspedia</BundleName>
+      <AssetPath>Assets/Pages/0-0 main screen.prefab</AssetPath>
+      <Title />
+      <Background />
+      <Text>
+        <Text Name="Heading (1)">
+          <Text>Manual</Text>
+        </Text>
+        <Text Name="Heading (2)">
+          <Text>Ascent Guidance
+Docking Autopilot
+Landing Guidance
+Maneuver Planner
+Maneuver Node Editor
+Rendezvous Guidance</Text>
+        </Text>
+        <Text Name="Heading (3)">
+          <Text>Contents</Text>
+        </Text>
+        <Text Name="Heading (4)">
+          <Text>SmartASS
+Spaceplane Guidance
+Throttle Control
+Warp Helper
+Custom Windows
+Changing Modules</Text>
+        </Text>
+        <Text Name="Text">
+          <Text>MechJeb 2</Text>
+        </Text>
+      </Text>
+      <Tooltips />
+    </Screen>
+  </Screens>
+</KSPedia>
