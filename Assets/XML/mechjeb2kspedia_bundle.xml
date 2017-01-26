@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<KSPBundleDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" UrlName="mechjeb2kspedia" Name="mechjeb2kspedia" CreatedTime="-8587162217679980156">
+<KSPBundleDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" UrlName="mechjeb2kspedia" Name="mechjeb2kspedia" CreatedTime="-8587161367191904431">
   <Author />
   <Info />
   <Assets>
-    <Asset Name="0-0 main screen" Path="Assets/Pages/0-0 main screen.prefab" Type="GameObject" Url="Pages/0-0 main screen" AutoLoad="false" />
+    <Asset Name="0 - 0 Main Menu" Path="Assets/Pages/0 - 0 Main Menu.prefab" Type="GameObject" Url="Pages/0 - 0 Main Menu" AutoLoad="false" />
     <Asset Name="mechjeb2kspedia_kspedia" Path="Assets/XML/mechjeb2kspedia_kspedia.xml" Type="TextAsset" Url="XML/mechjeb2kspedia_kspedia" AutoLoad="false" />
   </Assets>
   <Dependencies />

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<KSPBundleDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" UrlName="squadcore" Name="squadcore" CreatedTime="-8587162217687090563">
+<KSPBundleDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" UrlName="squadcore" Name="squadcore" CreatedTime="-8587161367170294351">
   <Author />
   <Info />
   <Assets>
@@ -28,7 +28,6 @@
     <Asset Name="KSP/Specular (Transparent)" Path="Assets/SquadCore/Shaders/SpecularTransparent.shader" Type="Shader" Url="SquadCore/Shaders/SpecularTransparent" AutoLoad="false" />
     <Asset Name="KSP/Unlit" Path="Assets/SquadCore/Shaders/Unlit.shader" Type="Shader" Url="SquadCore/Shaders/Unlit" AutoLoad="false" />
     <Asset Name="KSP/Alpha/Unlit Transparent" Path="Assets/SquadCore/Shaders/UnlitTransparent.shader" Type="Shader" Url="SquadCore/Shaders/UnlitTransparent" AutoLoad="false" />
-    <Asset Name="squadcore_kspedia" Path="Assets/XML/squadcore_kspedia.xml" Type="TextAsset" Url="XML/squadcore_kspedia" AutoLoad="false" />
   </Assets>
   <Dependencies />
 </KSPBundleDefinition>

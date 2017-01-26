@@ -1,44 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
-<KSPedia xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="mechjeb2kspedia" CreatedTime="-8587162217718272347">
+<KSPedia xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="mechjeb2kspedia" CreatedTime="-8587161367233374716">
   <Categories>
-    <Category Name="MechJeb2">
-      <Title>MechJeb2</Title>
-      <TitleScreen>0-0 main screen</TitleScreen>
+    <Category Name="MechJeb 2">
+      <Title>MechJeb 2</Title>
+      <TitleScreen>0 - 0 Main Menu</TitleScreen>
       <Screens />
       <Subcategories />
     </Category>
   </Categories>
   <Screens>
-    <Screen Name="0-0 main screen">
+    <Screen Name="0 - 0 Main Menu">
       <BundleName>mechjeb2kspedia</BundleName>
-      <AssetPath>Assets/Pages/0-0 main screen.prefab</AssetPath>
+      <AssetPath>Assets/Pages/0 - 0 Main Menu.prefab</AssetPath>
       <Title />
       <Background />
       <Text>
-        <Text Name="Heading (1)">
+        <Text Name="Text">
           <Text>Manual</Text>
         </Text>
-        <Text Name="Heading (2)">
+        <Text Name="Text (1)">
+          <Text>MechJeb 2</Text>
+        </Text>
+        <Text Name="Text (2)">
+          <Text>Contents
+</Text>
+        </Text>
+        <Text Name="Text (3)">
           <Text>Ascent Guidance
+
 Docking Autopilot
 Landing Guidance
 Maneuver Planner
 Maneuver Node Editor
 Rendezvous Guidance</Text>
         </Text>
-        <Text Name="Heading (3)">
-          <Text>Contents</Text>
-        </Text>
-        <Text Name="Heading (4)">
+        <Text Name="Text (4)">
           <Text>SmartASS
 Spaceplane Guidance
 Throttle Control
 Warp Helper
 Custom Windows
 Changing Modules</Text>
-        </Text>
-        <Text Name="Text">
-          <Text>MechJeb 2</Text>
         </Text>
       </Text>
       <Tooltips />
